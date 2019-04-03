@@ -1,5 +1,7 @@
 # RGB Guess Game
 
+Demo - https://leo-khramtsov.github.io/rgb-guess-game/
+
 ## Based on the exercise part of the Udemy course "The Web Developer Bootcamp" by Colt Steele.
 
 During development we used the following technologies:
